@@ -1,0 +1,20 @@
+You are given a JSON dataset derived from the UK travel survey. It includes: 
+- Top-level IDs;
+- An "individual" object (socioeconomic attributes);
+- A "household" object (socioeconomic attributes);
+- A "trip" array (daily journeys).
+
+Your task is to generate a persona that combines and summarizes these components, 
+highlighting key socioeconomic background and travel behaviour.
+
+Each persona must:
+- Provide a concise description of this persona (maximum 30 words);
+- Provide a role name based on the role description;
+- Use professional, neutral language suitable for academic research; 
+- Follow this exact format:
+[Role Name]: [Description of this role.]
+
+Example:
+Commuting Professional: Full-time employee, middle age, commuting daily by car, balancing family life with a stable income.
+
+{json_str}
