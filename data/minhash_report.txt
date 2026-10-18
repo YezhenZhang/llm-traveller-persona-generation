@@ -1,0 +1,238 @@
+MinHash deduplication report
+Threshold: 0.9
+Input count: 9317
+Kept: 9271
+Removed: 46
+Removal rate: 0.49%
+================================================================================
+
+Duplicate pair 1:
+Kept (index 397): Home-based Walker: Middle-aged full-time employee, residing in a high-income household, frequently walking for leisure, with minimal reliance on public transport or private car usage.
+Removed (index 398): Home-Based Walker: Middle-aged full-time employee, residing in a high-income household, frequently walking for leisure, with minimal reliance on public transport or private car.
+--------------------------------------------------------------------------------
+
+Duplicate pair 2:
+Kept (index 651): Car-Dependent Middle-Aged Professional: Full-time employed individual, aged 40-49, utilizing a private car daily for commuting and errands, with a high household income.
+Removed (index 1328): Car-Dependent Middle-Aged Professional: Full-time employed individual, aged 40-49, utilizing a private vehicle daily for commuting and errands, with a high household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 3:
+Kept (index 668): Retired Car User: Middle-aged, economically inactive individual, utilizing a private car daily for personal and medical purposes, with a modest household income in the second quintile.
+Removed (index 1462): Retired Car User: Middle-aged, economically inactive individual, utilizing a private car weekly for personal and medical purposes, with a modest income in the second household income quintile.
+--------------------------------------------------------------------------------
+
+Duplicate pair 4:
+Kept (index 181): Car-Dependent Professional: Middle-aged full-time employee utilizing a private car daily for commuting and shopping, with a moderate household income in the fourth quintile.
+Removed (index 1521): Commuting Car User: Middle-aged full-time employee, utilizing a private car for daily commuting and shopping, with a stable income in the fourth household income quintile.
+--------------------------------------------------------------------------------
+
+Duplicate pair 5:
+Kept (index 1606): Retired Shopper: Senior individual, economically inactive, utilizing a private car for frequent non-food and food shopping trips, with a moderate household income.
+Removed (index 1607): Retired Shopper: Economically inactive senior, utilizing a private car for frequent non-food and food shopping trips, with a moderate household income level.
+--------------------------------------------------------------------------------
+
+Duplicate pair 6:
+Kept (index 1881): Car-Dependent Shopper: Middle-aged full-time worker, residing in a high-income household, predominantly using a car for daily errands and social visits, with occasional walking for leisure.
+Removed (index 2055): Car-Dependent Shopper: Middle-aged full-time worker, residing in a high-income household, primarily using a car for daily errands and social visits, with occasional walking for leisure.
+--------------------------------------------------------------------------------
+
+Duplicate pair 7:
+Kept (index 545): Retired Car User: Senior individual, economically inactive and retired, utilizes a private car weekly for food shopping, residing in a household with a modest income level.
+Removed (index 2169): Retired Car User: Senior individual, economically inactive and retired, utilizes a private car for weekly food shopping, with a modest household income in the second quintile.
+--------------------------------------------------------------------------------
+
+Duplicate pair 8:
+Kept (index 125): Home-Based Commuter: Middle-aged adult, full-time worker primarily commuting from home, utilizing a private car for grocery shopping, with a high household income.
+Removed (index 2523): Home-Based Commuter: Middle-aged full-time worker primarily commuting from home, utilizing a private car for grocery shopping, with a high household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 9:
+Kept (index 181): Car-Dependent Professional: Middle-aged full-time employee utilizing a private car daily for commuting and shopping, with a moderate household income in the fourth quintile.
+Removed (index 3053): Commuting Car User: Middle-aged full-time employee, utilizing a private car daily for commuting and occasional shopping, with a household income in the fourth quintile.
+--------------------------------------------------------------------------------
+
+Duplicate pair 10:
+Kept (index 1127): Retired Car User: Senior, economically inactive individual, primarily using a private car for medical and shopping trips, with a low household income in the first quintile.
+Removed (index 3112): Retired Car User: Senior individual, economically inactive and retired, primarily using a private car for daily shopping trips, with a low household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 11:
+Kept (index 1656): Retired Car User: Senior individual, economically inactive, utilizing a private car for personal errands and shopping, demonstrating a moderate household income in the fourth quintile.
+Removed (index 3217): Retired Car User: Senior individual, economically inactive, utilizing a private car for personal errands and shopping, with a moderate household income in the fourth quintile.
+--------------------------------------------------------------------------------
+
+Duplicate pair 12:
+Kept (index 610): Retired Car User: Senior individual, economically inactive due to retirement, utilizes a private car for personal medical business 3-4 times weekly, with a high household income.
+Removed (index 4138): Retired Car User: Senior individual, economically inactive due to retirement, utilizes a private car for personal medical business, with a high household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 13:
+Kept (index 3519): Full-Time Commuter: Middle-aged adult, employed full-time, relies on a car for daily commuting and shopping, demonstrating a stable household income in the fourth quintile.
+Removed (index 4169): Full-Time Commuter: Middle-aged adult, employed full-time, relies on a private car for daily commuting and shopping, demonstrating stable household income in the fourth quintile.
+--------------------------------------------------------------------------------
+
+Duplicate pair 14:
+Kept (index 342): Home-Based Commuter: Middle-aged full-time employee working from home, utilizing a private car for shopping trips, and walking daily for leisure activities. High household income.
+Removed (index 4216): Home-Based Commuter: Middle-aged full-time employee, predominantly working from home, utilizing a private car for social and shopping trips, reflecting a high household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 15:
+Kept (index 4110): Retired Car User: Senior individual, economically inactive due to retirement, with a moderate household income, frequently using a car for essential shopping and social visits.
+Removed (index 4292): Retired Car User: Senior individual, economically inactive due to retirement, with moderate household income, frequently using a car for social outings and essential shopping.
+--------------------------------------------------------------------------------
+
+Duplicate pair 16:
+Kept (index 1671): Part-Time Commuter: Middle-aged adult working part-time, utilizing a car for daily commutes and errands, with a moderate household income and frequent walking activities.
+Removed (index 4387): Part-Time Commuter: Middle-aged adult working part-time, utilizing a private car for daily commutes, with a moderate household income and frequent local walking.
+--------------------------------------------------------------------------------
+
+Duplicate pair 17:
+Kept (index 2708): Commuting Family Member: Middle-aged full-time employee, utilizing a private car for daily commuting and shopping, with a moderate household income in the third income quintile.
+Removed (index 4431): Commuting Family Member: Middle-aged full-time employee, utilizing a private car for daily work and shopping trips, with a moderate household income in the third income quintile.
+--------------------------------------------------------------------------------
+
+Duplicate pair 18:
+Kept (index 2251): Active Commuter: Middle-aged full-time employee working from home, with high household income, engaging in regular walking and occasional car trips for social visits.
+Removed (index 4947): Home-Based Commuter: Middle-aged full-time employee working from home, utilizing a private car for daily trips and engaging in regular walking activities, with a high household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 19:
+Kept (index 4683): Part-Time Commuter: Middle-aged adult working part-time, reliant on a private car for daily commuting and shopping, with a modest household income in the second quintile.
+Removed (index 4994): Part-Time Commuter: Middle-aged adult, employed part-time, utilizes a private car for daily commuting and shopping, with a modest household income in the second quintile.
+--------------------------------------------------------------------------------
+
+Duplicate pair 20:
+Kept (index 3988): Retired Car User: Senior individual, economically inactive and retired, frequently uses a car for daily activities, including shopping and social visits, with a moderate household income.
+Removed (index 5260): Retired Car User: Senior individual, economically inactive and retired, frequently uses a car for social visits and shopping, with moderate household income in the second quintile.
+--------------------------------------------------------------------------------
+
+Duplicate pair 21:
+Kept (index 1114): Family-Oriented Commuter: Middle-aged full-time employee, utilizing a private car for daily commutes and family responsibilities, with a moderate household income.
+Removed (index 5308): Family-Oriented Commuter: Middle-aged full-time employee, utilizing a car for daily commutes and family responsibilities, with a moderate household income and occasional walking for leisure activities.
+--------------------------------------------------------------------------------
+
+Duplicate pair 22:
+Kept (index 3988): Retired Car User: Senior individual, economically inactive and retired, frequently uses a car for daily activities, including shopping and social visits, with a moderate household income.
+Removed (index 5489): Retired Car User: Senior individual, economically inactive and retired, frequently uses a car for shopping and social visits, with a moderate household income in the third quintile.
+--------------------------------------------------------------------------------
+
+Duplicate pair 23:
+Kept (index 3218): Retired Car User: Senior individual, retired and economically inactive, utilizing a private car for occasional medical visits, with a moderate household income in the fourth quintile.
+Removed (index 5530): Retired Car User: Economically inactive senior individual, utilizing a private car for regular shopping and social visits, with a moderate household income in the fourth quintile.
+--------------------------------------------------------------------------------
+
+Duplicate pair 24:
+Kept (index 4903): Retired Car User: Senior individual, economically inactive due to retirement, utilizing a private car for essential shopping and personal errands several times a week.
+Removed (index 5762): Retired Car User: Senior individual, economically inactive due to retirement, frequently uses a private car for personal errands, and walks several times a week for leisure.
+--------------------------------------------------------------------------------
+
+Duplicate pair 25:
+Kept (index 5809): Retired Car User: Senior individual, economically inactive due to retirement, utilizes a private car frequently for shopping and social outings, with moderate household income.
+Removed (index 5810): Retired Car User: Senior individual, economically inactive due to retirement, utilizing a car frequently for social outings and shopping, with moderate household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 26:
+Kept (index 3294): Home-Based Commuter: Middle-aged full-time worker, primarily commuting from home, utilizing walking and car for local trips, with moderate household income.
+Removed (index 6024): Local Commuter: Middle-aged full-time worker, primarily commuting from home, utilizing walking and car trips for leisure activities, with a moderate household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 27:
+Kept (index 1196): Cycling Commuter: Middle-aged full-time employee, predominantly cycling to work daily, with a moderate household income, occasionally using a car for shopping trips.
+Removed (index 6225): Active Commuter: Middle-aged full-time employee, predominantly walking to work, occasionally cycling, and utilizing a car for shopping trips, with a moderate household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 28:
+Kept (index 5804): Retired Car User: Senior individual, economically inactive, utilizing a private car frequently for short trips, primarily for social and shopping activities, reflecting a modest household income.
+Removed (index 6255): Retired Car User: Senior individual, economically inactive and retired, frequently using a private car for social activities and short trips, with a modest household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 29:
+Kept (index 4448): Retired Car User: Senior individual, economically inactive, primarily using a private car for daily errands and social visits, with a moderate household income.
+Removed (index 6266): Retired Car User: Senior individual, economically inactive, primarily using a private car for daily errands and social visits, with a modest household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 30:
+Kept (index 2934): Retired Car User: Senior individual, economically inactive due to retirement, utilizing a car for personal and medical trips, with moderate household income.
+Removed (index 6445): Retired Car User: Senior individual, economically inactive due to retirement, predominantly using a private car for personal and shopping trips, with a moderate household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 31:
+Kept (index 5033): Retired Car User: Senior individual, economically inactive, utilizing a car daily for social visits and shopping, with a moderate household income.
+Removed (index 6535): Retired Car User: Senior individual, economically inactive and retired, utilizing a personal car for shopping and social visits, with a moderate household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 32:
+Kept (index 6406): Commuting Car User: Middle-aged adult, full-time employee, relies on a car for daily commutes and occasional holidays, with a moderate household income.
+Removed (index 7095): Commuting Car User: Middle-aged full-time employee, reliant on a private car for daily commutes, with moderate household income and occasional walking for leisure.
+--------------------------------------------------------------------------------
+
+Duplicate pair 33:
+Kept (index 3207): Retired Car User: Senior individual, economically inactive, utilizing a private car 3-4 times weekly for medical appointments and social visits, with a modest household income.
+Removed (index 7461): Retired Car User: Senior individual, economically inactive, utilizing a private car 3-4 times weekly for social visits and shopping, with a modest household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 34:
+Kept (index 7331): Active Commuter: Middle-aged full-time employee working from home, with high household income, utilizing walking for social activities and occasional car trips for shopping and leisure.
+Removed (index 7703): Home-based Commuter: Middle-aged, full-time employee working from home, utilizing a car for occasional trips, with a high household income and daily walking habits.
+--------------------------------------------------------------------------------
+
+Duplicate pair 35:
+Kept (index 2226): Part-Time Caregiver: Middle-aged adult, employed part-time, primarily using a car for daily education escort trips, with moderate household income and regular walking activities.
+Removed (index 7784): Part-Time Caregiver: Middle-aged adult, employed part-time, primarily using a car for daily education escort and shopping trips, with a moderate household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 36:
+Kept (index 7331): Active Commuter: Middle-aged full-time employee working from home, with high household income, utilizing walking for social activities and occasional car trips for shopping and leisure.
+Removed (index 7877): Home-Based Commuter: Middle-aged full-time employee working from home, utilizing a private car for social and shopping trips, with a high household income and frequent daily walking.
+--------------------------------------------------------------------------------
+
+Duplicate pair 37:
+Kept (index 5027): Retired Car User: Economically inactive senior, utilizing a car for social and personal errands, with a moderate household income, and engaging in daily walking for local activities.
+Removed (index 8083): Retired Car User: Economically inactive senior, utilizing a private car for various personal errands, engaging in daily walking, and maintaining moderate household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 38:
+Kept (index 197): Commuting Family Provider: Middle-aged full-time employee, utilizing a private car for daily commutes and shopping, belonging to a high-income household.
+Removed (index 8227): Commuting Family Provider: Middle-aged full-time employee, utilizing a car for daily commutes and shopping, belonging to a moderately high household income quintile.
+--------------------------------------------------------------------------------
+
+Duplicate pair 39:
+Kept (index 4549): Retired Car User: Senior individual, retired and economically inactive, utilizing a private car for personal and medical business, reflecting a high household income level.
+Removed (index 8300): Retired Car User: Senior individual, economically inactive and retired, utilizing a private car for personal business and shopping, with a high household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 40:
+Kept (index 2428): Commuting Family Provider: Middle-aged full-time employee, commuting daily by car, with a household income in the fourth quintile, balancing work and family responsibilities.
+Removed (index 8319): Commuting Family Provider: Middle-aged full-time employee, regularly commuting by car, balancing work and family responsibilities, with a household income in the fourth quintile.
+--------------------------------------------------------------------------------
+
+Duplicate pair 41:
+Kept (index 2317): Part-Time Commuter: Middle-aged adult, working part-time, primarily using a car for local errands and social visits, with occasional walking trips for leisure. High household income.
+Removed (index 8430): Part-Time Commuter: Middle-aged adult, working part-time, primarily using a car for daily travel, with occasional walking trips for leisure and high household income.
+--------------------------------------------------------------------------------
+
+Duplicate pair 42:
+Kept (index 7768): Retired Urban Shopper: Senior individual, economically inactive, utilizing a private car for weekly food shopping, with a modest household income in the second quintile.
+Removed (index 8571): Retired Shopper: Senior individual, economically inactive, utilizing a car for weekly food shopping trips, with a modest household income in the second quintile.
+--------------------------------------------------------------------------------
+
+Duplicate pair 43:
+Kept (index 7948): Commuting Family Provider: Middle-aged full-time employee, commuting daily by car, with moderate household income, balancing work and family responsibilities through regular travel routines.
+Removed (index 8692): Commuting Family Provider: Middle-aged full-time employee, commuting by car, with a moderate household income, balancing work and family responsibilities through regular daily travel.
+--------------------------------------------------------------------------------
+
+Duplicate pair 44:
+Kept (index 6406): Commuting Car User: Middle-aged adult, full-time employee, relies on a car for daily commutes and occasional holidays, with a moderate household income.
+Removed (index 8992): Commuting Car User: Middle-aged full-time employee, reliant on a private car for daily commutes, with moderate household income, and occasional walking for leisure and social activities.
+--------------------------------------------------------------------------------
+
+Duplicate pair 45:
+Kept (index 1494): Commuting Family Provider: Middle-aged full-time employee, utilizing a private car daily for work commutes, with a stable household income in the highest quintile.
+Removed (index 9069): Commuting Family Provider: Middle-aged full-time employee, utilizing a car for daily work commutes, demonstrating a stable household income in the highest quintile.
+--------------------------------------------------------------------------------
+
+Duplicate pair 46:
+Kept (index 5693): Retired Car User: Senior individual, economically inactive and retired, primarily using a private car for social visits and personal business, with moderate household income.
+Removed (index 9252): Retired Car User: Senior individual, economically inactive, primarily using a private car for social visits and personal errands, with moderate household income.
+--------------------------------------------------------------------------------
+

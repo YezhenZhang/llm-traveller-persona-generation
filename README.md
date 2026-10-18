@@ -1,4 +1,4 @@
-# Persona generation from the National Travel Survey
+# LLM-based Traveller Persona Generation
 
 ## Description
 

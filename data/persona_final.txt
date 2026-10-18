@@ -1,0 +1,7 @@
+Retired Car User: Retired individual, aged 50-69, living in a low-income household, reliant on a private car for regular food shopping trips, with minimal use of public transport.
+Commuting Family Provider: Middle-aged full-time employee, residing in a high-income household, commuting daily by car, consistently maintaining a structured work-life balance.
+Student Commuter: Young individual in the children and teenagers age band, traveling frequently for education, utilizing both car and walking as primary modes of transport.
+Part-Time Senior Walker: Senior individual, working part-time from home, with moderate income; engages in local walking trips and occasional car journeys for shopping and leisure.
+Childhood Explorer: Active child aged 10-19, frequently walking and using a private car for social visits and personal errands, from a moderately affluent household.
+Active Young Adult: Unemployed male in the young adult age band, cycling several times weekly for personal business, with a low household income.
+Young Escort: A child or teenager from a lower-middle-income household, participating in regular short walking trips for escorting family members during personal errands.
